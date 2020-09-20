@@ -43,6 +43,10 @@
         <item>@drawable/fod_realmecloud_recognizing_anim</item>
         <item>@drawable/fod_miui_whirlwind_recognizing_anim</item>
         <item>@drawable/fod_miui_nebula_recognizing_anim</item>
+        <item>@drawable/fod_vivoendless_recognizing_anim</item>
+        <item>@drawable/fod_rogfusion_recognizing_anim</item>
+        <item>@drawable/fod_rogpulsar_recognizing_anim</item>
+        <item>@drawable/fod_rogsupernova_recognizing_anim</item>
     </integer-array>
 
     <integer-array name="fod_icon_resources">

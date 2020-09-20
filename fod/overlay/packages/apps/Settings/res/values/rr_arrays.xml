@@ -42,6 +42,10 @@
         <item>@string/fod_realme_cloud</item>
         <item>@string/fod_whirlwind</item>
         <item>@string/fod_nebula</item>
+        <item>@string/fod_vivo1</item>
+        <item>@string/fod_asus_rog_1</item>
+        <item>@string/fod_asus_rog_2</item>
+        <item>@string/fod_asus_rog_3</item>
     </string-array>
 
     <string-array name="fod_recog_animation_values" translatable="false">
@@ -72,6 +76,10 @@
         <item>24</item>
         <item>25</item>
         <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
     </string-array>
 
 </resources>
