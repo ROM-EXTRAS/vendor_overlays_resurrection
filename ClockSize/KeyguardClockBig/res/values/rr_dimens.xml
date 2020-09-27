@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="custom_clock_width">160dp</dimen>
+    <dimen name="custom_clock_height">160dp</dimen>
+    <dimen name="binary_clock_width">120dp</dimen>
+    <dimen name="binary_clock_height">120dp</dimen>
+    <dimen name="analog_clock_width">160dp</dimen>
+    <dimen name="analog_clock_height">160dp</dimen>
+</resources>
