@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- volume icon color -->
+    <color name="volume_row_icon_tint">@*android:color/gradient_end</color>
+    <color name="volume_row_ringer_tint">@*android:color/gradient_end</color>
+    <color name="volume_row_text_tint">@*android:color/gradient_end</color>
+
+</resources>

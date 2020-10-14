@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- volume icon color -->
+    <color name="volume_slider_start">@*android:color/gradient_start</color>
+    <color name="volume_slider_end">@*android:color/gradient_end</color>
+
+</resources>
