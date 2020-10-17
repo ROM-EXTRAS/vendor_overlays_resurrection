@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Search bar background color -->
+    <color name="search_bar_background">@*android:color/accent_device_default_dark</color>
+    <color name="search_bar_background_2">@*android:color/accent_device_default_dark</color>
+</resources>

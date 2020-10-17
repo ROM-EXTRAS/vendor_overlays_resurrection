@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Searchbar -->
+    <!-- Search bar background color -->
+    <color name="search_bar_background">@android:color/white</color>
+    <color name="search_bar_background_2">@color/search_bar_background</color>
+</resources>
