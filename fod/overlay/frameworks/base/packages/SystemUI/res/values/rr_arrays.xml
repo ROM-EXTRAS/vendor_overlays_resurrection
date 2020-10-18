@@ -47,6 +47,32 @@
         <item>@drawable/fod_rogfusion_recognizing_anim</item>
         <item>@drawable/fod_rogpulsar_recognizing_anim</item>
         <item>@drawable/fod_rogsupernova_recognizing_anim</item>
+        <item>@drawable/fod_rr_1</item>
+        <item>@drawable/fod_rr_2</item>
+        <item>@drawable/fod_rr_3</item>
+        <item>@drawable/fod_rr_4</item>
+        <item>@drawable/fod_rr_5</item>
+        <item>@drawable/fod_rr_6</item>
+        <item>@drawable/fod_rr_7</item>
+        <item>@drawable/fod_rr_8</item>
+        <item>@drawable/fod_rr_9</item>
+        <item>@drawable/fod_rr_10</item>
+        <item>@drawable/fod_rr_11</item>
+        <item>@drawable/fod_rr_12</item>
+        <item>@drawable/fod_rr_13</item>
+        <item>@drawable/fod_rr_14</item>
+        <item>@drawable/fod_rr_15</item>
+        <item>@drawable/fod_rr_16</item>
+        <item>@drawable/fod_rr_17</item>
+        <item>@drawable/fod_rr_19</item>
+        <item>@drawable/fod_rr_20</item>
+        <item>@drawable/fod_rr_21</item>
+        <item>@drawable/fod_rr_22</item>
+        <item>@drawable/fod_rr_23</item>
+        <item>@drawable/fod_rr_24</item>
+        <item>@drawable/fod_rr_25</item>
+        <item>@drawable/fod_rr_26</item>
+        <item>@drawable/fod_rr_18</item>
     </integer-array>
 
     <integer-array name="fod_icon_resources">

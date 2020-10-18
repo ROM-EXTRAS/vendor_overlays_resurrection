@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2019-2020 The ShapeShiftOS Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/fod_circle_fod02_00" android:duration="6" />    
+    <item android:drawable="@drawable/fod_circle_fod02_01" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_02" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_03" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_04" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_05" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_06" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_07" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_08" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_09" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_10" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_11" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_12" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_13" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_14" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_15" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_16" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_17" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_18" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_19" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_20" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_21" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_22" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_23" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_24" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_25" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_26" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_27" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_28" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_29" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_30" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_31" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_32" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_33" android:duration="6" />    
+    <item android:drawable="@drawable/fod_circle_fod02_34" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_35" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_36" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_37" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_38" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_39" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_40" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_41" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_42" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_43" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_44" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_45" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_46" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_47" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_48" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_49" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_50" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_51" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_52" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_53" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_54" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_55" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_56" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_57" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_58" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_59" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_60" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_61" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_62" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_63" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_64" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_65" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_66" android:duration="6" />    
+    <item android:drawable="@drawable/fod_circle_fod02_67" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_68" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_69" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_70" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_71" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_72" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_73" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_74" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_75" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_76" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_77" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_78" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_79" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_80" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_81" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_82" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_83" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_84" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_85" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_86" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_87" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_88" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_89" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_90" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_91" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_92" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_93" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_94" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_95" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_96" android:duration="6" />
+    <item android:drawable="@drawable/fod_circle_fod02_97" android:duration="6" />
+</animation-list>

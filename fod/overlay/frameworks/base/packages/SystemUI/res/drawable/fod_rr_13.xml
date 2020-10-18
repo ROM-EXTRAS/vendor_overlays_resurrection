@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2019-2020 The ShapeShiftOS Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/fod_energy_fod_default_00" android:duration="18" />    
+    <item android:drawable="@drawable/fod_energy_fod_default_01" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_02" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_03" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_04" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_05" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_06" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_07" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_08" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_09" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_10" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_11" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_12" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_13" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_14" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_15" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_16" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_17" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_18" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_19" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_20" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_21" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_22" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_23" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_24" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_25" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_26" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_27" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_28" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_29" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_30" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_31" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_32" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_33" android:duration="18" />    
+    <item android:drawable="@drawable/fod_energy_fod_default_34" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_35" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_36" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_37" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_38" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_39" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_40" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_41" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_42" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_43" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_44" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_45" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_46" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_47" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_48" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_49" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_50" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_51" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_52" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_53" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_54" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_55" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_56" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_57" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_58" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_59" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_60" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_61" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_62" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_63" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_64" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_65" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_66" android:duration="18" />    
+    <item android:drawable="@drawable/fod_energy_fod_default_67" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_68" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_69" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_70" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_71" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_72" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_73" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_74" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_75" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_76" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_77" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_78" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_79" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_80" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_81" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_82" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_83" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_84" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_85" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_86" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_87" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_88" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_89" android:duration="18" />
+    <item android:drawable="@drawable/fod_energy_fod_default_90" android:duration="18" />
+
+</animation-list>
