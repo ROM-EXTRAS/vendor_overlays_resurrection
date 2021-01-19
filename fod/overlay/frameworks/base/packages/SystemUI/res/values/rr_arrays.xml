@@ -73,6 +73,7 @@
         <item>@drawable/fod_rr_25</item>
         <item>@drawable/fod_rr_26</item>
         <item>@drawable/fod_rr_18</item>
+        <item>@drawable/fod_cyberpunk</item>
     </integer-array>
 
     <integer-array name="fod_icon_resources">

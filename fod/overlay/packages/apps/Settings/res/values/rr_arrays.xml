@@ -72,6 +72,7 @@
         <item>@string/fod_extra_25</item>
         <item>@string/fod_extra_26</item>
         <item>@string/fod_extra_27</item>
+        <item>@string/fod_recog_animation_cyberpunk</item>
     </string-array>
 
     <string-array name="fod_recog_animation_values" translatable="false">
@@ -132,6 +133,7 @@
         <item>54</item>
         <item>55</item>
         <item>56</item>
+        <item>57</item>
     </string-array>
 
 </resources>
